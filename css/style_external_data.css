@@ -1,0 +1,43 @@
+
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    margin: 0;
+}
+
+#timelines {
+    width: 50%;
+    height: 30%;
+    left: 20px;
+    top: 20px;
+    border: 2px solid;
+}
+
+#site {
+  margin-left: 200;
+  margin-top: 50;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.line {
+  stroke: green;
+  stroke-width: 2;
+  fill: none;
+}
+
+input {
+  margin: 4px 4px 0;
+}
+
+
