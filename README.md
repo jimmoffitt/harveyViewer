@@ -1,5 +1,5 @@
 
-## EventViewer
+## harveyViewer
 
 * Based on forked version of https://github.com/blehman/maperator poc. 
 * Building blocks:
