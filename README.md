@@ -22,4 +22,4 @@ Browser-based explorer of Twitter events.
  
  Run locally: python -m http.server
 
-![](https://raw.githubusercontent.com/jimmoffitt/SocialFlood/master/EventViewer/imgs/eventViewer_v2.png)
+![](https://raw.githubusercontent.com/jimmoffitt/harveyViewer/master/imgs/eventViewer_v2.png)
